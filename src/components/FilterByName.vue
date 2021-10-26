@@ -2,7 +2,7 @@
   <div class="search">
       <input 
       type="text"
-      placeholder="Search by name"
+      placeholder="Busqueda por nombre"
       v-model="name"
       @keyup="filter()"
       >
